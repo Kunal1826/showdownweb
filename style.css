@@ -1,3 +1,9 @@
+@font-face {
+    font-family : gilroy;
+    src: url(./Gilroy-Thin.woff2)
+}
+
+
 .goodshadow{
     box-shadow: 0px 0px 10px black;
 }
